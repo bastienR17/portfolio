@@ -1,22 +1,22 @@
-**telecharger le site**
+**download the site**
 
-1) pour le telecharger rendé-vous sur https://github.com/bastienR17/portfolio
+1) to download go to https://github.com/bastienR17/portfolio
 
 2) cliquer sur "code" le bouton vert puis download zip
 
-3) une fois le zip télécharger decompreser le et ouvrer index.html
+3) click on "code" the green button then download zip
 
 
-  **installer et lancer votre projet**
+  **install and launch your project**
 
-1) pour commencer l'instalation il faut deja avoir un Repositories avec notre projet 
+1) to start the installation you must already have a Repositories with our project 
 
-2) aller sur https://vercel.com/ et cliquer sur start deploiment 
+2) go on https://vercel.com/ and click on start deployment
 
-3) connecter vous a votre compte Github et selectionner votre repositiories 
+3) log in to your Github account and select your repositories
 
-4) apres avoir cliquer sur importer vous ariver sur une nouvel page, cliquer sur deploy
+4) after clicking on import you arrive on a new page, click on deploy
 
-5) attender un peu et voila votre site est en ligne 
+5) wait a bit and voila your site is online
 
   
