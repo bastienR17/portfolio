@@ -2,9 +2,9 @@
 
 1) to download go to https://github.com/bastienR17/portfolio
 
-2) cliquer sur "code" le bouton vert puis download zip
+2) click on "code" the green button then download zip
 
-3) click on "code" the green button then download zip
+3) dezip the file and open the index.html file 
 
  or
  
