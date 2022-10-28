@@ -6,6 +6,9 @@
 
 3) click on "code" the green button then download zip
 
+ or
+ 
+1) git clone https://github.com/bastienR17/portfolio.git
 
   **install and launch your project**
 
@@ -17,6 +20,8 @@
 
 4) after clicking on import you arrive on a new page, click on deploy
 
-5) wait a bit and voila your site is online
+5) wait a bit and your site is online
 
-  
+ 
+
+
