@@ -293,9 +293,6 @@ h2 {
   .pres_img {
     display: none;
   }
-  .img_pres {
-    display: nonte;
-  }
   .presentation {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -345,5 +342,9 @@ h2 {
     padding-left: 0rem;
     text-align: center;
     font-size: 25px;
+  }
+  .comp_img img {
+    width: 2rem;
+    height: 2rem;
   }
 }/*# sourceMappingURL=style.css.map */

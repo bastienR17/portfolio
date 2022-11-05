@@ -360,11 +360,7 @@ h2{
      display: none;
     }
   
-    .img_pres{
-      display: nonte;
-  
-    }
-   
+    
     .presentation{
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -399,7 +395,7 @@ h2{
   @media screen and (max-width: 1280px) {
    
     
-  
+    
    
    
     .presentation{
@@ -432,11 +428,12 @@ h2{
     }
 
 
-    .comp_img
-    {
-      
+    .comp_img img{
+      width: 2rem;
+      height: 2rem;
     }
 
+   
 
   }
 
